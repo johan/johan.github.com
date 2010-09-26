@@ -2,6 +2,6 @@
 layout: default
 title: johan.github.com
 ---
-There isn't much here yet, but maybe you'd want to take a peek in the
-"source tree":http://github.com/johan/johan.github.com/tree/master for
+There isn't much here yet, but maybe you'd want to take a peek in the 
+"source tree":http://github.com/johan/johan.github.com/tree/master for 
 inspiration about pages to visit?
